@@ -1,0 +1,24 @@
+app_version: v1.6
+spec:
+  ports:
+    name: ""
+    bind_addr: ""
+  sendpulse_config:
+    client_id: ""
+    client_secret: ""
+    time_to_refresh_token: 0
+    token_term_life: 0
+  dadata_config:
+    dadata_key: ""
+    dadata_secret: ""
+    dadata_token: ""
+  client:
+    timeout: 0
+  app:
+    url_owner_templates_list: ""
+	  url_owner_ip: ""
+	  url_template_info: ""
+    url_oauth: ""
+	  url_smtp: ""
+	  url_dadata_geo: ""
+	  time_format: ""
